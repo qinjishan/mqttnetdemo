@@ -3,6 +3,7 @@ using MQTTnet;
 using MQTTnet.Client;
 using MQTTnet.Client.Options;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -56,48 +57,15 @@ namespace mqttclientwebapi
             //consuming messaging
             mqttclient.UseApplicationMessageReceivedHandler(async e =>
             {
-                var receiveMsg =JsonConvert.DeserializeObject< MeetingMsgModel>(Encoding.UTF8.GetString(e.ApplicationMessage.Payload));
+                var receiveMsg =JsonConvert.DeserializeObject<MeetingMsgModel>(Encoding.UTF8.GetString(e.ApplicationMessage.Payload));
 
                 var receiveTopic = e.ApplicationMessage.Topic;
 
-                //foreach (var item in receiveMsg.UserIds)
-                //{
-                //    var sendTopic = $"topic/createmeeting/{item.ToString().ToLower()}";
-                //    var sendMsg = JsonConvert.SerializeObject(new ChannelTokenModel
-                //    {
-                //        Token = "12345",
-                //        ChannelId = receiveMsg.ChannelId
-                //    });
-
-                //    var msg = new MqttApplicationMessageBuilder().WithTopic(sendTopic).WithPayload(sendMsg)
-                //        .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.AtLeastOnce).WithRetainFlag(false).Build();
-
-
-                //    mqttclient.PublishAsync(msg);
-                //}
-                var msgs= receiveMsg.UserIds.Select(u =>
-                {
-
-                    var sendMsg = JsonConvert.SerializeObject(new ChannelTokenModel
-                    {
-                        Token = "12345",
-                        ChannelId = receiveMsg.ChannelId
-                    });
-
-                    var msg = new MqttApplicationMessageBuilder()
-                        .WithTopic($"topic/createmeeting/{u.ToString().ToLower()}").WithPayload(sendMsg)
-                        .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.AtLeastOnce)
-                        .WithRetainFlag(false).Build();
-                    return msg;
-                });
+               
+                var msgs= await BuildMessage(receiveMsg);
 
 
                 mqttclient.PublishAsync(msgs);
-
-
-                //SendMsg(mqttclient, Guid.Parse("7ba0d58e-ef06-4a86-8781-51f92e4287d6"), receiveMsg.ChannelId);
-                //SendMsg(mqttclient, Guid.Parse("deda94d9-6d3a-4b11-82d4-379396efc22c"), receiveMsg.ChannelId);
-
 
             });
 
@@ -134,6 +102,25 @@ namespace mqttclientwebapi
                 Console.WriteLine($"连接失败：{e.Message}");
             }
             
+        }
+
+        private async Task<IEnumerable<MqttApplicationMessage>> BuildMessage(MeetingMsgModel receiveMsg)
+        {
+           return receiveMsg.UserIds.Select(u =>
+            {
+
+                var sendMsg = JsonConvert.SerializeObject(new ChannelTokenModel
+                {
+                    Token = "12345",
+                    ChannelId = receiveMsg.ChannelId
+                });
+
+                var msg = new MqttApplicationMessageBuilder()
+                    .WithTopic($"topic/createmeeting/{u.ToString().ToLower()}").WithPayload(sendMsg)
+                    .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.AtLeastOnce)
+                    .WithRetainFlag(false).Build();
+                return msg;
+            });
         }
 
         private async Task SendMsg(MqttClient mqttclient,Guid userid,string channelId)
