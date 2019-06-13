@@ -1,42 +1,13 @@
-# AppServer
+# mqttnet + asp.net core 2.2 webapi +winform
+ 1. mqttwebapi项目为基于 asp.net core 2.2 webapi+mqttnet 作为mqtt服务端
+ 2. mqttclientwebapi项目为基于 asp.net core 2.2 webapi+ mqttnet 作为mqtt 客户端  
+ 3. WindowsFormsApp1项目为基于winform窗体应用程序+mqttnet 作为mqtt客户端
+ 4. MqttServerCore1 基于asp.net core 2.2 console控制台应用 +mqttnet 作为mqtt服务端（可忽略）
+ 5. MqttServerTest 基于asp.net core 2.2 console控制台应用 +mqttnet 作为mqtt服务端 （可忽略）
+ 6. aliyun-net-sdk-core 阿里云rtc核心sdk
+ 7. aliyun-net-sdk-rtc 阿里云rtc核心sdk
+ 8. aliyun-openapi-net-sdk openapi核心sdk
+ 
+## 其他项目可忽略
 
-C# AppServer for RTC.
-
-## Usage
-
-1. Generate AK from [here](https://usercenter.console.aliyun.com/#/manage/ak):
-
-```
-AccessKeyID: xxxxxxxxxxxxxxxx
-AccessKeySecret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
-
-2. Create APP from [here](https://rtc.console.aliyun.com/#/manage):
-
-```
-AppID: iwo5l81k
-```
-
-3. Clone SDK and add `aliyun-net-openapi-core` and `aliyun-net-openapi-rtc` to project:
-
-```
-git clone https://github.com/aliyun/aliyun-openapi-net-sdk.git
-```
-
-4. Run project with args(replace access key and appid with yours):
-
-```
---listen=8080 --access-key-id=xxxxxxxxxxxxxxxx --access-key-secret=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --appid=iwo5l81k --gslb=https://rgslb.rtc.aliyuncs.com
-```
-
-5. Verify  your AppServer by [here](http://ossrs.net/talks/ng_index.html#/rtc-check?schema=http&host=127.0.0.1&port=8080&path=/app/v1/login&room=1237&user=jzufp&password=12345678) or [verify token](http://ossrs.net/talks/ng_index.html#/token-check).
-
-![AppServer Success](images/app-ok.png)
-
-![AppServer Failed](images/app-failed.png)
-
-![AppServer Error Recovered](images/app-recovered.png)
-
-> Remark: You can setup client native SDK by `http://30.2.228.19:8080/app/v1`.
-
-> Remark: Please use your AppServer IP instead by `ifconfig eth0`.
+> remark: 本项目源码未经本人同意可随意使用
