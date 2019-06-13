@@ -1,0 +1,10 @@
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\bin\Debug\netcoreapp2.2\MqttServerTest.deps.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\bin\Debug\netcoreapp2.2\MqttServerTest.runtimeconfig.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\bin\Debug\netcoreapp2.2\MqttServerTest.runtimeconfig.dev.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\bin\Debug\netcoreapp2.2\MqttServerTest.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\obj\Debug\netcoreapp2.2\MqttServerTest.csproj.CoreCompileInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\obj\Debug\netcoreapp2.2\MqttServerTest.AssemblyInfoInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\obj\Debug\netcoreapp2.2\MqttServerTest.AssemblyInfo.cs
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\bin\Debug\netcoreapp2.2\MqttServerTest.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\obj\Debug\netcoreapp2.2\MqttServerTest.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\MqttServerTest\obj\Debug\netcoreapp2.2\MqttServerTest.pdb

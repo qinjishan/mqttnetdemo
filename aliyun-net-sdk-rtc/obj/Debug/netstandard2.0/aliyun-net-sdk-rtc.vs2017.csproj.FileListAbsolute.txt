@@ -1,0 +1,12 @@
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\bin\Debug\netstandard2.0\aliyun-net-sdk-rtc.deps.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\bin\Debug\netstandard2.0\aliyun-net-sdk-rtc.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\bin\Debug\netstandard2.0\aliyun-net-sdk-rtc.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\bin\Debug\netstandard2.0\aliyun-net-sdk-core.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\bin\Debug\netstandard2.0\aliyun-net-sdk-core.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.vs2017.csprojAssemblyReference.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.vs2017.csproj.CoreCompileInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.vs2017.AssemblyInfoInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.vs2017.AssemblyInfo.cs
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.vs2017.csproj.CopyComplete
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-rtc\obj\Debug\netstandard2.0\aliyun-net-sdk-rtc.pdb

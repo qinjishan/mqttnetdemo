@@ -1,0 +1,9 @@
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\net45\aliyun-net-sdk-core.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\net45\aliyun-net-sdk-core.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\net45\Serilog.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\net45\Serilog.Exceptions.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\net45\Serilog.Sinks.File.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\net45\aliyun-net-sdk-core.vs2017.csproj.CoreCompileInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\net45\aliyun-net-sdk-core.vs2017.csproj.CopyComplete
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\net45\aliyun-net-sdk-core.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\net45\aliyun-net-sdk-core.pdb

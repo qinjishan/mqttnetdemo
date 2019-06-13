@@ -1,0 +1,7 @@
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\netstandard2.0\aliyun-net-sdk-core.deps.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\netstandard2.0\aliyun-net-sdk-core.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\bin\Debug\netstandard2.0\aliyun-net-sdk-core.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\netstandard2.0\aliyun-net-sdk-core.vs2017.csproj.CoreCompileInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\netstandard2.0\aliyun-net-sdk-core.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\netstandard2.0\aliyun-net-sdk-core.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\aliyun-net-sdk-core\obj\Debug\netstandard2.0\aliyun-net-sdk-core.vs2017.csprojAssemblyReference.cache

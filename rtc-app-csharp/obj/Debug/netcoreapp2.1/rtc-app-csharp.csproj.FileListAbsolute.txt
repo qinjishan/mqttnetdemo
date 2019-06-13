@@ -1,0 +1,16 @@
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\rtc-app-csharp.deps.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\rtc-app-csharp.runtimeconfig.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\rtc-app-csharp.runtimeconfig.dev.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\rtc-app-csharp.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\rtc-app-csharp.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\aliyun-net-sdk-core.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\aliyun-net-sdk-rtc.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\aliyun-net-sdk-core.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\bin\Debug\netcoreapp2.1\aliyun-net-sdk-rtc.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.csprojAssemblyReference.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.csproj.CoreCompileInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.AssemblyInfoInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.AssemblyInfo.cs
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.csproj.CopyComplete
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\rtc-app-csharp\obj\Debug\netcoreapp2.1\rtc-app-csharp.pdb

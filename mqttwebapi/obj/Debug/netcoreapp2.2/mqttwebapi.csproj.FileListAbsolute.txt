@@ -1,0 +1,14 @@
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\bin\Debug\netcoreapp2.2\mqttwebapi.deps.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\bin\Debug\netcoreapp2.2\mqttwebapi.runtimeconfig.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\bin\Debug\netcoreapp2.2\mqttwebapi.runtimeconfig.dev.json
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\bin\Debug\netcoreapp2.2\mqttwebapi.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.csprojAssemblyReference.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.csproj.CoreCompileInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.RazorAssemblyInfo.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.RazorAssemblyInfo.cs
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.AssemblyInfoInputs.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.AssemblyInfo.cs
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.RazorTargetAssemblyInfo.cache
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\bin\Debug\netcoreapp2.2\mqttwebapi.pdb
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.dll
+D:\zpc\source\demo\coredemo\AliRtcAppServer\csharp\mqttwebapi\obj\Debug\netcoreapp2.2\mqttwebapi.pdb

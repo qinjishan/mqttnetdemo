@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rtc-app-csharp": {
+      "commandName": "Project",
+      "commandLineArgs": "--listen=8080 --access-key-id=LTAIx323abVewUZz --access-key-secret=zYv085rn0N9tvJmF8aHjDuRcPZlcWU --appid=ajiucud6 --gslb=https://rgslb.rtc.aliyuncs.com"
+    }
+  }
+}
